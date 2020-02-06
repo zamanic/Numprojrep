@@ -1,2 +1,2 @@
 # Numprojrep
-social connection
+social connection git command demonstration
